@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from Hampton-Court containing the substance of His Majesties most gracious answer to the propositions presented to him from both kingdomes. With twelve proposals from his Excellency Sir Thomas Fairfax, and the Councell of his Army. Concerning the Kings Majesty, and his friends that have adhered to him, which His Majesty doth better approve to treat of. And His Majesties propositions to the Parliament therein.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87950</idno>
+            <idno type="STC">Wing L1470</idno>
+            <idno type="STC">Thomason E407_2</idno>
+            <idno type="STC">ESTC R21936</idno>
+            <idno type="EEBO-CITATION">99871544</idno>
+            <idno type="PROQUEST">99871544</idno>
+            <idno type="VID">160500</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87950)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160500)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E407[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from Hampton-Court containing the substance of His Majesties most gracious answer to the propositions presented to him from both kingdomes. With twelve proposals from his Excellency Sir Thomas Fairfax, and the Councell of his Army. Concerning the Kings Majesty, and his friends that have adhered to him, which His Majesty doth better approve to treat of. And His Majesties propositions to the Parliament therein.</title>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>England and Wales. Army. Council.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for V,V. and are to be sold at the Exchange, anno Dom. MDCXLVII. [1647]</publisher>
+                  <pubPlace>London :</pubPlace>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The letter is dated at end: Hampton Court, Septem. 9. 1647.</note>
+                  <note>Annotation on Thomason copy: "7ber 14th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Peace --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160500:1" rendition="simple:additions"/>
+            <p>A LETTER FROM HAMPTON-COVRT Containing The ſubſtance of His Majeſties moſt Gracious ANSWER to the <hi>Propo<g ref="char:EOLhyphen"/>ſitions</hi> preſented to him from both KINGDOMES.</p>
+            <p>WITH Twelve Propoſals from his Excellency Sir <hi>Thomas Fairfax,</hi> and the Councell of his ARMY.</p>
+            <p>Concerning the Kings Majeſty, and his Friends that have adhered to him, which His Majeſty doth better approve to treat of.</p>
+            <p>AND His Majeſties PROPOSITIONS to the PARLIAMENT therein.</p>
+            <p>
+               <hi>London</hi> printed for V, V. and are to be ſold at the <hi>Exchange, Anno Dom.</hi> MDCXLVII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:160500:2"/>
+            <pb n="1" facs="tcp:160500:2"/>
+            <head>A LETTER FROM <hi>HAMPTON-CO<g ref="char:V">Ʋ</g>RT,</hi> Containing The ſubſtance of His Majeſties moſt Gratious <hi>Anſwer</hi> to the <hi>Propoſitions, pre<g ref="char:EOLhyphen"/>ſented to him from both Kingdomes.</hi>
+            </head>
+            <div type="body_of_letter">
+               <opener>
+                  <salute>Right Honourable,</salute>
+               </opener>
+               <p>THE Commiſſioners of both Kingdomes came hither on Tueſday night laſt <hi>September</hi> 7. in<g ref="char:EOLhyphen"/>ſtant, And delivered a letter to the reſt of the Com<g ref="char:EOLhyphen"/>miſſioners, whom they found here with His Ma<g ref="char:EOLhyphen"/>jeſty from both Houſes of Parliament, that the ſaid Propoſitions ſhould be preſented to the King that night &amp; that the <hi>Scots</hi> Commiſſioners would be ther to joyn with them to preſent them to His Majeſty.</p>
+               <p>They alſo ſhew'd the inſtructions from the Houſes to their fellow Commiſsioners, which were to preſent them that night, and to certifie His Majeſty that they were to expect a poſitive Anſwer thereunto within fix days. The <hi>Scots</hi> Commiſsioners were alſo here ready to joyn with ours in preſenting them to His Majeſty.</p>
+               <p>About five of the clock that night they all came to
+<pb n="2" facs="tcp:160500:3"/>the <hi>King,</hi> The Prince Elector had been there but was returned to <hi>Richmond</hi> His <hi>Majeſties</hi> Children were alſo there, who had dined with His Majeſty that day, and the Counteſſe of <hi>Northumberland</hi> with them, and they were then with His Majeſty being not at that time returned to <hi>Ston-Houſe.</hi> And Mr. <hi>Maxvill</hi> was then come to the Court, who is Chamberline to His Ma<g ref="char:EOLhyphen"/>jeſty.</p>
+               <p>The Commiſsioners acquainted His <hi>Majeſty</hi> with their Meſſage from both Kingdomes, and deſired au<g ref="char:EOLhyphen"/>dience, which His Majeſty granted, and preſently met them in one of the Chambers where His <hi>Majeſty</hi> was with His Children: And there the Propoſitions were preſented and read; And His <hi>Majeſty</hi> told them that He would give them an Anſwer as ſoone as Hee could.</p>
+               <p>Then the <hi>King</hi> withdrew for ſome time, ſo that His <hi>Majeſty</hi> went late to Supper that night, the Com<g ref="char:EOLhyphen"/>miſsioners wrote letters to the Houſes to acquaine them what was done, and what His <hi>Majeſty</hi> ſaid, and deſired that they might all returne to the Parliament when His Majeſty gave them a diſpatch.</p>
+               <p>
+                  <hi>Wedneſday</hi> September 8. Inſtant the <hi>King</hi> was up early in the morning, being very deſirous to diſpatch the Commiſsioners with all poſsible ſpeede, his <hi>Ma<g ref="char:EOLhyphen"/>jeſty</hi> walked forth a little before Dinner, and ſo a little againe in the after-noone to refreſh himſelfe; Di<g ref="char:EOLhyphen"/>vers came from <hi>London,</hi> and elſe where, and ſome obtained leave to kiſſe His <hi>Majeſties</hi> hand.</p>
+               <p>
+                  <hi>Thurſday</hi> September 9. His <hi>Majeſty</hi> called for the Commiſsioners and gave an Anſwer to them, which is to this effect.</p>
+               <p>That his <hi>Majeſty</hi> takes notice of theſe Propoſitions to be very little differing from the former preſented to
+<pb n="3" facs="tcp:160500:3"/>him at <hi>Newcaſtle,</hi> to which his <hi>Maieſty</hi> returned An<g ref="char:EOLhyphen"/>ſwer when he came to <hi>Holdenby,</hi> That his <hi>Maieſty</hi> conceives they cannot but take notice of the Propofals of the Army which all rationall men cannot but con<g ref="char:EOLhyphen"/>feſſe are much more reaſonable, and tending to a firme and ſettled peace, And therefore his <hi>Maieſty</hi> de<g ref="char:EOLhyphen"/>fires that Commiſsioners from the Parliament, and Commiſſioners from the Army, may be ſent to His Majeſty to treat with him upon the Propoſals from the Army, That a firme peace may be ſettled.</p>
+               <p>This <hi>Thurſday</hi> the 9. Inſtant, The Earle of <hi>Pem<g ref="char:EOLhyphen"/>brooke,</hi> and Major generall <hi>Browne,</hi> returned with his <hi>Maieſties</hi> Anſwer betimes in the morning, for it was to late before they could returne over night, by reaſon of ſome things which were to be done by the Commiſsi<g ref="char:EOLhyphen"/>oners that night, The letter is directed <hi>to the Earle of</hi> Mancheſter <hi>Speaker of the Houſe of</hi> Peers, pro tem<g ref="char:EOLhyphen"/>pore, <hi>to be communicated to both Houſes of Parliament</hi> (The like to the <hi>Scots</hi> Commiſsioners) His <hi>Maieſty</hi> is very confident that his Anſwer will give much ſatiſ<g ref="char:EOLhyphen"/>faction, And his <hi>Maieſty</hi> doth exceedingly approve of the proceedings of the Army.</p>
+               <closer>
+                  <dateline>
+                     <hi>Dated at</hi> Hampton Court, <date>
+                        <hi>Septem.</hi> 9. 1647.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="proposals">
+               <head>TWELVE <hi>Propoſalls</hi> from his Excellency, Sir <hi>Thomas Fairfax,</hi> and the Councell of his <hi>Army,</hi> which his Majeſty ſeems better to approve of, then any thing which hath hitherto been preſented to him.</head>
+               <div n="1" type="proposal">
+                  <head>I.</head>
+                  <p>AN Act to be paſſed to take away al coercive pow<g ref="char:EOLhyphen"/>er, authority and juriſdiction of Biſhops, and all
+<pb n="4" facs="tcp:160500:4"/>other Eccleſiaſticall Officers whatſoever, extending to any civill penalties upon any; &amp; to repeal al Laws, wherby the Civil Magiſtracy hath been, or is bound, upon any Eccleſiaſticall cenſure to proceed <hi>(ex officio)</hi> unto any civil penaltys againſt any perſons ſo cenſured</p>
+               </div>
+               <div n="2" type="proposal">
+                  <head>II.</head>
+                  <p>That there be a repeale of all Acts, or Clauſes in any Act, enjoyning the uſe of the Book of Common Prayer, and impoſing any penalties, for neglect ther<g ref="char:EOLhyphen"/>of, as alſo of all Acts or Clauſes in any Act, impo<g ref="char:EOLhyphen"/>ſing any penalties for not comming to Church, or for meetings elſewhere, for prayer, or other religi<g ref="char:EOLhyphen"/>ous duties, excerciſes or Ordinances, and ſome other proviſion to be made for diſcovering of Papiſts, and Popiſh Recuſants, and for diſabling of them, and all Jeſuities or Prieſts, from diſturbing the State.</p>
+               </div>
+               <div n="3" type="proposal">
+                  <head>III.</head>
+                  <p>That the taking of the Covenant be not inforced upon any nor any penalties impoſed upon the Refu<g ref="char:EOLhyphen"/>ſers, whereby men might be conſtrained to take it a<g ref="char:EOLhyphen"/>gainſt their judgements, or conſciences, but all Or<g ref="char:EOLhyphen"/>ders or Ordinances tending to that purpoſe to be re<g ref="char:EOLhyphen"/>pealed.</p>
+               </div>
+               <div n="4" type="proposal">
+                  <head>IIII.</head>
+                  <p>That (the things here before propoſed, being pro<g ref="char:EOLhyphen"/>vided, for ſetling and ſecuring the Rights, Liberties, Peace, and ſafety of the Kingdome,) his Majeſties perſon, his Queen, and Royall iſſue, may be reſto<g ref="char:EOLhyphen"/>red to a condition of ſafety, Honour, and freedome in this Nation, without diminution to their perſonall Rights, or further limitation to the excerciſe of the Re<g ref="char:EOLhyphen"/>gall power then according to the particulars aforego<g ref="char:EOLhyphen"/>ing.</p>
+               </div>
+               <div n="5" type="proposal">
+                  <pb n="5" facs="tcp:160500:4"/>
+                  <head>V.</head>
+                  <p>That a leſſe number out of the perſons excepted in the two firſt qualifications not exceeding five for the <hi>Engliſh</hi>) being nominated particularly by the Parlia<g ref="char:EOLhyphen"/>ment, who (together with the perſons in the <hi>Iriſh</hi> Re<g ref="char:EOLhyphen"/>bellion, in the third qualification,) may be reſerved to the further judgement of the Parliament, as they ſhall finde cauſe, All other excepted perſons may be remitted from the exception, and admitted to Com<g ref="char:EOLhyphen"/>poſition.</p>
+               </div>
+               <div n="6" type="proposal">
+                  <head>VI.</head>
+                  <p>That the rates for all future Compoſitions may be leſſened and limitted, not to exceed the ſeverall propo rtions hereafter expreſt reſpectively: That is to ſay. 1. For all perſons formerly excepted, not above a third part. 2. For the late members of Par<g ref="char:EOLhyphen"/>liament, under the firſt branch of the fourth qualification in the Propoſitions, a fourth part. 3. For other Members of Parlia<g ref="char:EOLhyphen"/>ment, in the ſecond and third branches of the ſame qualificati<g ref="char:EOLhyphen"/>on a ſixth part. 4. for the perſons nominated in the ſaid fourth qualification, and thoſe included in the tenth qualification, an eighth part. 5. For all other included in the ſixth qualification, a tenth part. And that reall Debts, either upon Record, or proved by witneſſes, be conſidered and abared in the valuation of their eſtates in all the caſes aforeſaid.</p>
+               </div>
+               <div n="7" type="proposal">
+                  <head>VII.</head>
+                  <p>That thoſe who ſhall hereafter come to compound, may not have the Covenant put upon them, as a condition without which they may not compound, but in caſe they ſhall not wil<g ref="char:EOLhyphen"/>lingly take it, they may paſſe their compoſitions without it.</p>
+               </div>
+               <div n="8" type="proposal">
+                  <head>VIII.</head>
+                  <p>That the perſons and Eſtates of all Engliſh, not worth two hundred pounds in Lands or Goods, be at liberty and diſcharg<g ref="char:EOLhyphen"/>ed: And that the Kings meniall Servants, that neer took up Armes, but onely ettended his Perſon, according to their Offi<g ref="char:EOLhyphen"/>ces, may be freed from Compoſition, or to pay (at moſt) but the proportion of one years Revenue, or a twentyeth part.</p>
+               </div>
+               <div n="9" type="proposal">
+                  <pb n="6" facs="tcp:160500:5"/>
+                  <head>IX.</head>
+                  <p>That in Order to the making and perfecting of Compoſiti<g ref="char:EOLhyphen"/>ons at the rates aforeſaid, the Rents, Revenues, and other Dues, and Profits of all ſequeſtred Eſtates whatſoever (except the E<g ref="char:EOLhyphen"/>ſtates of ſuch perſons, who ſhall be continued under exception as before) be from henceforth ſuſpended and detained in the hands of the reſpective tenants, occupants, and others, from whom they are due, for the ſpace of ſix moneths following.</p>
+               </div>
+               <div n="10" type="proposal">
+                  <head>X.</head>
+                  <p>That the Faith of the Army, or other ſorces of the Parliament given in Articles upon ſurrenders to any of the Kings party, may be fully made good, and where any breach thereof ſhall appeare to have been made, full reparation and ſatisfaction may be gi<g ref="char:EOLhyphen"/>ven to the parties injured, and the perſons offending (being found out, may be compelled thereto.</p>
+               </div>
+               <div n="11" type="proposal">
+                  <head>XI.</head>
+                  <p>That there may be a generall Act of Oblivion to extend unto all (except the perſons to be continued in exception as before) to abſolve from all Treſpaſſes, Miſdemeanors, &amp;c. done in proſe<g ref="char:EOLhyphen"/>cution of the War, and from all trouble or prejudice for or con<g ref="char:EOLhyphen"/>cerning the ſame, and to reſtore them to all priviledges, &amp;c. be<g ref="char:EOLhyphen"/>longing to other Subjects, provided, as in the fourth particular under the ſecond generall head aforegoing concerning ſecurity.</p>
+               </div>
+               <div n="12" type="proposal">
+                  <head>XII.</head>
+                  <p>And whereas there have been of late ſtrong indevours &amp; pra<g ref="char:EOLhyphen"/>ctices of a factious and deſperate party, to imbroyle this king<g ref="char:EOLhyphen"/>dome in a new war, and for that purpoſe to induce the King, the Queen, and Prince, to declare for the ſayd party, and alſo to excite and ſtirre up all thoſe of the Kings late party to appeare and ingage for the ſame, which attempts and deſignes, many of the Kings party, (out of a deſire to avoyd further miſery to the Kingdome,) have contributed their indevours to prevent, (as for divers of them we have had particular aſſurance, (we doe therefore deſire, that ſuch of the Kings party who ſhall appeare to have expreſſed, and ſhall hereafter expreſſe that way their good affections to the peace and welfare of the Kingdome, and to hinder the imbroyling of the ſame in a new warre, may bee freed and exempted from compoſitions, or to pay but one years Revenue or a twentieth part</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
